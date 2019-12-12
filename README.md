@@ -1,6 +1,23 @@
-# assimilar-pc-dotnet-cmd
-I would like to insert or supplement an idea where dotnet, an old microsoft program that I managed to cast response to converse herbeviarism, pitch the idea or not book and run on the pc in real time where to use a computer and talk to dotnet in audio with pc,.
-
-the idea is to insert a response cmd with audio and assimilating everything he hears and answering, on the pc assimilating he records the experience and will have but response according to time and your tutor or its owner is configuring his personality
-
-resposta assimilar de personilidade
+<!DOCTYPE html>
+<html lang="en">
+<Title location"ip">IpLogin</Title>
+    <head>
+        <meta charset="UTF-8"/>
+        <meta name="conta" content="width, initial-scale=1.0"/>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge"/>
+        <title Document=TitularIndividual"conta">agencia.conta</title>
+        <link rel="shortcut icon" href="Bradesco.SA" type="IpLogin-icon"conta/>
+<meta head=body.account.client"Bradesco.SA">meta."conta"<meta/>
+<meta Document=""titular>agemcia.conta</meta>
+        </head>
+        <body>
+        //unica conta bradesco.sa
+            <div>
+                <address name="contas"location=ip.href=a>agemcia.conta</address>
+                <p>agencia=.conta""</p>
+<a href="Bradesco.SA"account=conta."IpLogin"=ip>conta:""</a>
+<a href="tel:+5512-"account"href"cpu=>account.tel=5512-</a>
+<command account=conta.location=ip"">ip=</command>
+            </div>
+        </body>
+    </html>
